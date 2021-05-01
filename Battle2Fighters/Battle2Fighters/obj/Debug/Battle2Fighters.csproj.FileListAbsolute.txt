@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\C#\Battle2Fighters\Battle2Fighters\bin\Debug\Battle2Fighters.exe.config
+C:\Users\Admin\Desktop\C#\Battle2Fighters\Battle2Fighters\bin\Debug\Battle2Fighters.exe
+C:\Users\Admin\Desktop\C#\Battle2Fighters\Battle2Fighters\bin\Debug\Battle2Fighters.pdb
+C:\Users\Admin\Desktop\C#\Battle2Fighters\Battle2Fighters\obj\Debug\Battle2Fighters.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C#\Battle2Fighters\Battle2Fighters\obj\Debug\Battle2Fighters.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Battle2Fighters\Battle2Fighters\obj\Debug\Battle2Fighters.exe
+C:\Users\Admin\Desktop\C#\Battle2Fighters\Battle2Fighters\obj\Debug\Battle2Fighters.pdb
