@@ -1,0 +1,14 @@
+E:\C#\Console20.05Dz\Console20.05Dz\bin\Debug\Console20.05Dz.exe.config
+E:\C#\Console20.05Dz\Console20.05Dz\bin\Debug\Console20.05Dz.exe
+E:\C#\Console20.05Dz\Console20.05Dz\bin\Debug\Console20.05Dz.pdb
+E:\C#\Console20.05Dz\Console20.05Dz\obj\Debug\Console20.05Dz.csprojAssemblyReference.cache
+E:\C#\Console20.05Dz\Console20.05Dz\obj\Debug\Console20.05Dz.csproj.CoreCompileInputs.cache
+E:\C#\Console20.05Dz\Console20.05Dz\obj\Debug\Console20.05Dz.exe
+E:\C#\Console20.05Dz\Console20.05Dz\obj\Debug\Console20.05Dz.pdb
+C:\Users\Admin\OneDrive\Desktop\Console20.05Dz\Console20.05Dz\bin\Debug\Console20.05Dz.exe.config
+C:\Users\Admin\OneDrive\Desktop\Console20.05Dz\Console20.05Dz\bin\Debug\Console20.05Dz.exe
+C:\Users\Admin\OneDrive\Desktop\Console20.05Dz\Console20.05Dz\bin\Debug\Console20.05Dz.pdb
+C:\Users\Admin\OneDrive\Desktop\Console20.05Dz\Console20.05Dz\obj\Debug\Console20.05Dz.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Console20.05Dz\Console20.05Dz\obj\Debug\Console20.05Dz.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Console20.05Dz\Console20.05Dz\obj\Debug\Console20.05Dz.exe
+C:\Users\Admin\OneDrive\Desktop\Console20.05Dz\Console20.05Dz\obj\Debug\Console20.05Dz.pdb
