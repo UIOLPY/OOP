@@ -1,0 +1,7 @@
+C:\Users\Admin\OneDrive\Desktop\C#\Auto_Service\Auto_Service\bin\Debug\Auto_Service.exe.config
+C:\Users\Admin\OneDrive\Desktop\C#\Auto_Service\Auto_Service\bin\Debug\Auto_Service.exe
+C:\Users\Admin\OneDrive\Desktop\C#\Auto_Service\Auto_Service\bin\Debug\Auto_Service.pdb
+C:\Users\Admin\OneDrive\Desktop\C#\Auto_Service\Auto_Service\obj\Debug\Auto_Service.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\C#\Auto_Service\Auto_Service\obj\Debug\Auto_Service.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\C#\Auto_Service\Auto_Service\obj\Debug\Auto_Service.exe
+C:\Users\Admin\OneDrive\Desktop\C#\Auto_Service\Auto_Service\obj\Debug\Auto_Service.pdb
